@@ -7,8 +7,6 @@ The analysis covers Q1 2025 through Q2 2026: about 345,000 drives, 455,000 drive
 
 [View the Tableau dashboard](https://public.tableau.com/views/Drive_Reliability_Project/DriveReliability)
 
-![Drive reliability dashboard](dashboard_project.png)
-
 ## Results
 
 - TOSHIBA MG07ACA14TA showed a sharp increase in observed AFR: 0.66% at ages 4–5, 1.47% at ages 5–6, and 5.25% at ages 6–7. The last increase was about 3.6 times the previous rate.
