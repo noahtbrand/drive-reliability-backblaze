@@ -52,4 +52,4 @@ The raw data in `data/` is not committed because of its size. The results in `ou
 - The AFR analysis excludes models that fail the size or age-consistency filters, including ST8000DM002 and ST8000NM0055. The saved backtest predates applying that filter to the backtest and still includes ST8000NM0055. Its model list therefore differs slightly from the AFR analysis.
 - My filtering does not exactly match Backblaze's published tables, which also exclude boot drives and small models. Some quarterly figures differ as a result.
 
-Analysis and code by Noah Brand.
+- Noah Brand
